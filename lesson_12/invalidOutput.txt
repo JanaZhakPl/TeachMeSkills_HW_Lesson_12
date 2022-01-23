@@ -1,0 +1,5 @@
+000000 - The number must be 15 characters long
+docnum1 - The number must be 15 characters long
+do4num111111111 - The number must start with "contract" or "docnum"
+con3ract0000000 - The number must start with "contract" or "docnum"
+docnum11111111116 - The number must be 15 characters long

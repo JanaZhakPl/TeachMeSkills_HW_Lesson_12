@@ -1,0 +1,16 @@
+docnum222222222
+ - VALID
+con3ract0000000
+ - INVALID:The number must start with "contract" or "docnum"
+000000
+ - INVALID: the number must be 15 characters long
+docnum111111111
+ - VALID
+contract0000000
+ - VALID
+docnum1
+ - INVALID: the number must be 15 characters long
+do4num111111111
+ - INVALID:The number must start with "contract" or "docnum"
+docnum11111111116
+ - INVALID: the number must be 15 characters long
